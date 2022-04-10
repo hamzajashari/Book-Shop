@@ -5698,19 +5698,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Jashari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\BookShop\\BookShop.Web\\BookShop.Web.csproj",
+      "projectUniqueName": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Web\\BookShop.Web.csproj",
       "projectName": "BookShop.Web",
-      "projectPath": "C:\\Users\\user\\source\\repos\\BookShop\\BookShop.Web\\BookShop.Web.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\BookShop\\BookShop.Web\\obj\\",
+      "projectPath": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Web\\BookShop.Web.csproj",
+      "packagesPath": "C:\\Users\\Jashari\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jashari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

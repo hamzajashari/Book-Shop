@@ -1,0 +1,16 @@
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Repository.deps.json
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Repository.runtimeconfig.json
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Repository.runtimeconfig.dev.json
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Repository.dll
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Repository.pdb
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Domain.dll
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\bin\Debug\netcoreapp3.1\BookShop.Domain.pdb
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.csproj.AssemblyReference.cache
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.AssemblyInfoInputs.cache
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.AssemblyInfo.cs
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.csproj.CoreCompileInputs.cache
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.csproj.CopyComplete
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.dll
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.pdb
+D:\Desktop\Finki\Semester8\Upravuvanje IKT proekt\BookApp-master\BookShop.Repository\obj\Debug\netcoreapp3.1\BookShop.Repository.genruntimeconfig.cache

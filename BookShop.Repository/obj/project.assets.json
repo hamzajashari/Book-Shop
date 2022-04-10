@@ -6324,20 +6324,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jashari\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
       "projectName": "BookShop.Repository",
-      "projectPath": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
-      "packagesPath": "C:\\Users\\Jashari\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Repository\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Book-Shop\\BookShop.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jashari\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6350,8 +6355,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
-              "projectPath": "D:\\Desktop\\Finki\\Semester8\\Upravuvanje IKT proekt\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj"
+            "C:\\Users\\User\\Source\\Repos\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj"
             }
           }
         }
@@ -6398,7 +6403,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

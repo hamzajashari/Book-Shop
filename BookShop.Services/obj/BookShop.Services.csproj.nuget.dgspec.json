@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Services\\BookShop.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj",
+        "projectName": "BookShop.Domain",
+        "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\blagica.dimovska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\blagica.dimovska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
+        "projectName": "BookShop.Repository",
+        "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\blagica.dimovska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\blagica.dimovska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Services\\BookShop.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Services\\BookShop.Services.csproj",
+        "projectName": "BookShop.Services",
+        "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Services\\BookShop.Services.csproj",
+        "packagesPath": "C:\\Users\\blagica.dimovska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\blagica.dimovska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Domain\\BookShop.Domain.csproj"
+              },
+              "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj": {
+                "projectPath": "C:\\Users\\blagica.dimovska\\Desktop\\Book-Shop\\Book-Shop\\BookShop.Repository\\BookShop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "UmbracoCms.Core": {
+              "target": "Package",
+              "version": "[8.18.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

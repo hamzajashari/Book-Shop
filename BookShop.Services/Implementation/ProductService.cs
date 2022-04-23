@@ -2,7 +2,7 @@
 using BookShop.Domain.DTO;
 using BookShop.Repository.Interface;
 using BookShop.Services.Interface;
-using EShop.Services.Interface;
+using BookShop.Services.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;

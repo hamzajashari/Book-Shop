@@ -152,7 +152,7 @@ namespace EShop.Web.Controllers
             if (product == null)
             {
                 return NotFound();
-            }
+            }   
 
             return View(product);
         }

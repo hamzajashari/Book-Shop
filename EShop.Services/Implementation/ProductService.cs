@@ -47,7 +47,7 @@ namespace EShop.Services.Implementation
 
         public void CreateNewProduct(Product p)
         {
-            this._productRepository.Insert(p);
+            this._productRepository.Insert(p);  
         }
 
         public void DeleteProduct(Guid id)

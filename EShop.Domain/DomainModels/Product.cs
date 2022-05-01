@@ -27,5 +27,22 @@ namespace EShop.Domain.DomainModels
 
         }
 
+        public override bool Equals(object obj)
+        {
+            return obj is Product product &&
+                   Id.Equals(product.Id) &&
+                   ProductName == product.ProductName &&
+                   ProductImage == product.ProductImage &&
+                   ProductDescription == product.ProductDescription &&
+                   Rating == product.Rating &&
+                   ProductPrice == product.ProductPrice &&
+                   EqualityComparer<ICollection<ProductInShoppingCart>>.Default.Equals(ProductInShoppingCarts, product.ProductInShoppingCarts) &&
+                   EqualityComparer<ICollection<ProductInOrder>>.Default.Equals(Orders, product.Orders);
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id, ProductName, ProductImage, ProductDescription, Rating, ProductPrice, ProductInShoppingCarts, Orders);
+        }
     }
 }

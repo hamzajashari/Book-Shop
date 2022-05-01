@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShop.Repository", "EShop.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShop.Services", "EShop.Services\EShop.Services.csproj", "{C1B5D1FE-41C5-446B-9EE0-6751733403D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService.Test", "ProductService.Test\ProductService.Test.csproj", "{50B07464-4C5D-4D6F-B7B9-7B0E713DC73E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductController.Test", "ProductService.Test\ProductController.Test.csproj", "{50B07464-4C5D-4D6F-B7B9-7B0E713DC73E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
